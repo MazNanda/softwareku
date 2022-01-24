@@ -2,3 +2,5 @@ https://www.youtube.com/watch?v=SA-im_WDJo4
 https://www.google.com/search?sxsrf=AOaemvIQa-MtndRToh1Or6WHnQo89kzD3A:1643028137772&q=react+native+Permission+GPS+force+to+use&spell=1&sa=X&ved=2ahUKEwiCu4fktMr1AhUS63MBHdNyAD8QBSgAegQIARA1&biw=1600&bih=799&dpr=1
 https://stackoverflow.com/questions/45822318/how-do-i-request-permission-for-android-device-location-in-react-native-at-run-t
 https://reactnative.dev/docs/permissionsandroid
+
+ini file referensiku
